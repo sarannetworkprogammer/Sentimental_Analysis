@@ -9,3 +9,8 @@ Scikit-learn
 Pandas  
 NumPy  
 Matplotlib  
+
+
+## Results
+
+The accuracy, precision, recall, and F1-score for each classifier are shown in score sheet. The best performing classifier is also identified.
