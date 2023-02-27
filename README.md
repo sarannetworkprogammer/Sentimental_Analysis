@@ -1,7 +1,7 @@
 # Sentimental_Analysis
 # Sentiment Analysis using Machine Learning Classifiers
 
-This is a project for performing sentiment analysis on a dataset of 1000 tweets using machine learning classifiers. The classifiers used are Linear SVC, Logistic Regression, and OneVsRestClassifier. The analysis is done by applying n-gram range techniques.
+This is a project for performing sentiment analysis on a dataset 1000 comments from the City of San Antonio smart city survey using machine learning classifiers. The classifiers used are Linear SVC, Logistic Regression, and OneVsRestClassifier. The analysis is done by applying n-gram range techniques.
 
 ## Technologies Used
 Python  
